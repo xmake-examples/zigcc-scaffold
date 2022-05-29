@@ -35,11 +35,10 @@ Run xmake to install the dependencies & build the project:
 $ xmake
 note: install or modify (m) these packages (pass -y to skip confirm)?
 in xmake-repo:
-  -> zigcc 4.0.0
+  -> zig 0.9.1
 please input: y (y/n/m)
 
-  => download https://github.com/raysan5/zigcc/releases/download/4.0.0/zigcc-4.0.0_macos.tar.gz .. ok
-  => install zigcc 4.0.0 .. ok
+  => install zig 0.9.1 .. ok
 [ 25%]: ccache compiling.release src/main.cpp
 [ 50%]: linking.release zigcc-scaffold
 [100%]: build ok!
