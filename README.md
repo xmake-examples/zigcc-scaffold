@@ -35,10 +35,10 @@ Run xmake to install the dependencies & build the project:
 $ xmake
 note: install or modify (m) these packages (pass -y to skip confirm)?
 in xmake-repo:
-  -> zig 0.9.1
+  -> zig 0.10.0
 please input: y (y/n/m)
 
-  => install zig 0.9.1 .. ok
+  => install zig 0.10.0 .. ok
 [ 25%]: ccache compiling.release src/main.cpp
 [ 50%]: linking.release zigcc-scaffold
 [100%]: build ok!
