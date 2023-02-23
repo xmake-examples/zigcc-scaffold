@@ -38,7 +38,7 @@ in xmake-repo:
   -> zig 0.10.0
 please input: y (y/n/m)
 
-  => install zig 0.10.0 .. ok
+  => install zig 0.10.1 .. ok
 [ 25%]: ccache compiling.release src/main.cpp
 [ 50%]: linking.release zigcc-scaffold
 [100%]: build ok!
